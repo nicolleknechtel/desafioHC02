@@ -1,0 +1,55 @@
+html{
+    height:100%
+}
+
+body{
+    
+    background-image: url(docinho.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%
+}
+
+ #contents{
+     
+    align-items: center;
+    position:absolute; 	
+    height: 300px; 
+    margin: 20% 35%; 	
+	width: 400px;  	
+	background: white; 
+     
+    ; }
+
+    #form{
+
+        
+        display: grid;
+        position: relative;
+        text-align: center;
+        width:50%;
+        
+    }
+
+    input{
+        
+        padding: 3%;
+        border: 0;
+        border-bottom:1px solid #999;
+        outline:none;
+        background: transparent;
+    }
+
+    button{
+        width:90px;
+        height:25px;
+        margin:auto;
+        margin-top:1rem;
+        background-color: rgb(238, 185, 116);
+        border: 20px;
+    
+    
+}
+    
